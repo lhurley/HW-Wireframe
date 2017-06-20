@@ -1,0 +1,112 @@
+/**
+ * pairs with index.html
+ **/
+
+body {
+    background-color: #777;
+    padding-top: .1em;
+    font-family: Helvetica, sans-serif;
+	font-size: 18px
+}
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}	
+
+
+header {
+  margin: auto;
+  padding: 2em;
+  margin-bottom: .6em;
+  color: #777;
+  background: #ebebeb;
+  height: 5em;
+  width: 960px;
+  margin-left: 8.25em;
+}
+
+nav {
+  margin: auto;
+  padding: 2em;
+  margin-bottom: 1.25em;
+  color: #777;
+  background: #ebebeb;
+  height: 5em;
+  width: 960px;
+  margin-left: 8.25em;
+}
+
+article {
+  padding: 1em;
+  margin-bottom: -7em;
+  margin-left: .5em;
+  margin-top: 2.3em;
+  color: #ebebeb;
+  background: #777;
+  height: 10em;
+  width: 477px;
+}
+section {
+  padding-bottom:8em;
+  padding-top: 2em;
+  margin-top:0em;
+  margin-bottom: 0em;
+  float: left;
+  margin-left: 8.25em;
+  color: #777;
+  background: #ebebeb;
+  height: 16em;
+  width: 495px;
+}
+
+h1 {
+  font-size: 100%;
+  float: left;
+  margin-top: 0em;
+  padding-top: .75em;
+  margin-bottom: 1.5em;
+  padding-bottom: 2em;
+  margin-left: 1.5em;
+  color: #777;
+  background: #ebebeb;
+  height: 2.5em;
+  width: 435px;
+}
+
+p {
+  float: left;
+  margin-top: -1em;
+  padding-top: .5em;
+  padding-bottom: 1em;
+  margin-left: 1.5em;
+  color: #777;
+  background: #ebebeb;
+  height: 2.5em;
+  width: 435px;
+}
+
+aside {
+  float: left;
+  margin-left: 1.25em;
+  padding: 2em;
+  margin-bottom: 2em;
+  color: #777;
+  background: #ebebeb;
+  height: 16em;
+  width: 443px;
+}
+
+footer {
+  margin: auto;
+  margin-top: 18.5em;
+  padding: 2em;
+  margin-bottom: -4em;
+  color: #777;
+  background: #ebebeb;
+  height: 5em;
+  width: 960px;
+  margin-left: 8.25em;
+}
+
+
